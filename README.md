@@ -1,4 +1,4 @@
-# distortion-effecr-with-gsap
+# distortion-effect-with-gsap
 
 ## NB: Not Responsive
 
